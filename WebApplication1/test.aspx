@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     page for test - second time
+    online edit
     </div>
     </form>
 </body>
