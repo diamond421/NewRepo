@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    page for test
+    page for test - second time
     </div>
     </form>
 </body>
